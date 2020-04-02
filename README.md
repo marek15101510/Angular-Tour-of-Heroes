@@ -1,2 +1,2 @@
-# ilko.marek15-gmail.com
+# Angular-Tour-of-Heroes
 Angular Tour of Heroes
